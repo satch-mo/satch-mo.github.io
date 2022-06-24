@@ -5,6 +5,10 @@ body {
     margin-top:48px;
     font-family: Arial, Helvetica, sans-serif;
   }
+  
+  html {
+    scroll-behavior: smooth;
+  }
 
   h1, a {
     background-color: #04AA6D;
@@ -14,5 +18,5 @@ body {
   nav {
     text-align: right;
   }
-  
+
 
